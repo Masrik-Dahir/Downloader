@@ -1,0 +1,10 @@
+*.secret
+*.sh
+*.db
+*.ui
+*Demo.py
+*.mp4
+*.mp3
+*.spec
+Demo/*
+Log/*
