@@ -20,4 +20,4 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
           architecture: x64
-      - run: chmod 777 ./run.sh; ./run.sh;
+      - run: chmod 777 ./requirements.sh; ./requirements.sh; python download.py;
