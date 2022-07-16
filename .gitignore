@@ -8,3 +8,4 @@
 *.spec
 Demo/*
 Log/*
+.idea/*
